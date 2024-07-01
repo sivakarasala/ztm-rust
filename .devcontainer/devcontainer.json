@@ -4,7 +4,6 @@
 		"ghcr.io/devcontainers/features/rust:1": {
 			"version": "latest",
 			"profile": "minimal"
-		},
-		"ghcr.io/lee-orr/rusty-dev-containers/wasm32-unknown-unknown:0": {}
+		}
 	}
 }
